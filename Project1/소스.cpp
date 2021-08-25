@@ -12,9 +12,7 @@ vector<int> solution(string s)
 	map <string, int> solv;
 	vector<int> answer;
 	int cnt = 2;
-	int tmpint = 0;
-	vector<string> tmpvec;
-
+	
 	
 
 	m.insert(pair<string, int>("A", 0));
